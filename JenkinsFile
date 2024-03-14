@@ -72,6 +72,6 @@ pipeline {
                 echo 'Description: Deploy the React application to the production environment (e.g., AWS S3 bucket, Netlify, or a web server).'
                 echo 'Tool used: AWS S3, Netlify, or a web server'
             }
-        }
+        
     }
 }
